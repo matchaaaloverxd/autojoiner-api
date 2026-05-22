@@ -1,3 +1,0 @@
--- ts file was generated at discord.gg/pk6WbGqZ5X
-
-local fenv=getfenv()
